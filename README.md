@@ -16,6 +16,3 @@ enabling efficient data exchange and functionality. It serves as a backend syste
 ## Contribution
 
 Contributions from external sources are not accepted at this time. However, feedback and suggestions from project collaborators are highly valued and can be shared through appropriate communication channels.
-
-## License
-Unauthorized use, distribution, or modification of the project is strictly prohibited.
